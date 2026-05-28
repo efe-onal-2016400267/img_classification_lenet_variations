@@ -1,0 +1,9 @@
+torch
+torchvision
+torcheval
+torchmetrics
+torchsummary
+numpy
+scikit-learn
+matplotlib
+seaborn
